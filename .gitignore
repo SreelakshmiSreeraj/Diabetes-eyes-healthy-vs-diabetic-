@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+.venv_win/
+
+# PyCharm
+.idea/
+
+# Dataset
+dataset/
+
+# Uploaded/generated files
+uploads/
+
+# Explainability outputs
+explainability_results/
+
+# Python cache
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
